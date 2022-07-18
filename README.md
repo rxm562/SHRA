@@ -5,4 +5,4 @@ Contact:  Ram Mazumder, PhD
           Postdoctoral Researcher
           Civil, Environmental and Architectural Engineering
           University of Kansas.
-          Email: rkmazumder@ku.edu
+          Email: rkmazumder@ku.edu, rxm562@case.edu
